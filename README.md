@@ -1,2 +1,2 @@
 # Answering-Business-Questions-using-SQL
-This Jupyter Notebook project uses python visualization libraries and complex queries to answer important business questions for Chinook's music label business. 
+This project uses complex SQL queries to confidently answer common sales and marketing questions for Chinook's music label. Within it, python visualizations illustrate key take aways in a concise and understandable manner. Some specific questions adressed include: Which albumn's should be sold in stores and why? Which Sale Agents are performing better than others? Which countries have the most potential for business growth?
